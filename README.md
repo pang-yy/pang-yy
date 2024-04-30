@@ -1,10 +1,9 @@
 # pang-yy
 
-<p>
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=pang-yy&show_icons=true&locale=en&layout=compact&theme=dracula" alt="pang-yy" />
-</p>
 
-Hi, I'm Pang! Currently, I am studying Information Security at National University of Singapore.
+Hi, I'm Pang. Welcome to my Github profile 😶!
+
+Currently, I am studying Information Security at National University of Singapore.
 
 **Learning:**
 
