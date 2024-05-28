@@ -1,9 +1,6 @@
 # pang-yy
 
-
-Hi, I'm Pang. Welcome to my Github profile 😶!
-
-Currently, I am studying Information Security at National University of Singapore.
+Hi ! 😶
 
 **Learning:**
 
